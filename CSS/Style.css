@@ -1,0 +1,60 @@
+header{
+    background-color:#78A1BB;
+    position: relative;
+}
+h1{
+    font-family: 'Amatic SC', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+.FOTOPERFIL{
+    width: 250px;
+    height: 250px;
+    top: 35px;
+    position: absolute;
+}
+.FOTOPERFIL img{
+    height: 100%;
+}
+
+ul{
+    list-style: none;
+}
+.First{
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+}
+span{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+.RAC{
+    font-family: 'Oswald', sans-serif;
+    color: #2F2F3A;
+}
+.MC{
+    font-family: 'Oswald', sans-serif;
+    color: #2F2F3A;
+}
+footer{
+    padding: 10px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    text-align: center;
+}
+.Contact{
+    margin-left: -12px;
+}
+.Contact li{
+    display: inline-block;
+}
+.Contact a{
+    padding-right: 10px;
+}
+
+
